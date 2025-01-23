@@ -10,10 +10,12 @@ This is a simple currency converter app built with **Flutter**. It utilizes the 
 * **Offline support:** (Optional) Store recent exchange rates for offline conversions.
 * **Historical rates:** (Optional) View historical exchange rates for a given currency pair.
 
-**Screenshots:**
+# Screenshots
 
-[Image 1: Screenshot of the app's main screen]: lib/Assets/Screenshots/1.png 
-[Image 2: Screenshot of the currency selection screen]: lib/Assets/Screenshots/2.png
-[Image 3: Screenshot of the conversion result screen]: lib/Assets/Screenshots/3.png
+<div style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: space-around;">
+  <img src="lib/Assets/Screenshots/1.png" width="300" />
+  <img src="lib/Assets/Screenshots/2.png" width="300" />
+  <img src="lib/Assets/Screenshots/3.png" width="300" />
+</div>
 
 
