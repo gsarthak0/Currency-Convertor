@@ -7,8 +7,7 @@ This is a simple currency converter app built with **Flutter**. It utilizes the 
 * **Real-time exchange rates:** Get the latest exchange rates directly from the Exchangerate API.
 * **Multiple currency options:** Convert between a wide range of supported currencies.
 * **User-friendly interface:** Intuitive and modern UI designed with Flutter's Material Design components.
-* **Offline support:** (Optional) Store recent exchange rates for offline conversions.
-* **Historical rates:** (Optional) View historical exchange rates for a given currency pair.
+* **Offline support:** Store recent exchange rates for offline conversions.
 
 # Screenshots
 
